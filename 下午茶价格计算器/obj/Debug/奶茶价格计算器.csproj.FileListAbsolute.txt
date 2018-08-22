@@ -1,0 +1,9 @@
+C:\Users\FCD\source\repos\奶茶价格计算器\奶茶价格计算器\bin\Debug\奶茶价格计算器.exe.config
+C:\Users\FCD\source\repos\奶茶价格计算器\奶茶价格计算器\bin\Debug\奶茶价格计算器.exe
+C:\Users\FCD\source\repos\奶茶价格计算器\奶茶价格计算器\bin\Debug\奶茶价格计算器.pdb
+C:\Users\FCD\source\repos\奶茶价格计算器\奶茶价格计算器\obj\Debug\奶茶价格计算器.Form1.resources
+C:\Users\FCD\source\repos\奶茶价格计算器\奶茶价格计算器\obj\Debug\奶茶价格计算器.Properties.Resources.resources
+C:\Users\FCD\source\repos\奶茶价格计算器\奶茶价格计算器\obj\Debug\奶茶价格计算器.csproj.GenerateResource.Cache
+C:\Users\FCD\source\repos\奶茶价格计算器\奶茶价格计算器\obj\Debug\奶茶价格计算器.csproj.CoreCompileInputs.cache
+C:\Users\FCD\source\repos\奶茶价格计算器\奶茶价格计算器\obj\Debug\奶茶价格计算器.exe
+C:\Users\FCD\source\repos\奶茶价格计算器\奶茶价格计算器\obj\Debug\奶茶价格计算器.pdb
